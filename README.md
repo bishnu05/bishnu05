@@ -1,4 +1,4 @@
-<img src="https://camo.githubusercontent.com/04e1fb71da995e01cd6b0aef1b07b2d9745edd584d7b47236f083c3cd1d1bfe5/68747470733a2f2f7777772e69616b6164656d692e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f31302f7068702d7765622d64657369676e2e676966" alt="js" />
+<img src="https://camo.githubusercontent.com/04e1fb71da995e01cd6b0aef1b07b2d9745edd584d7b47236f083c3cd1d1bfe5/68747470733a2f2f7777772e69616b6164656d692e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f31302f7068702d7765622d64657369676e2e676966" height="100px" alt="js" />
 <h1 align="center">Hi 👋, I'm Bishnu Gorai</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **bishnugorai061999@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ERHOwImHjMpLTreqNbbiG10KrToz2oQg/view?usp=sharing](https://drive.google.com/file/d/1ERHOwImHjMpLTreqNbbiG10KrToz2oQg/view?usp=sharing)
+- 📄 Know about my experiences:- Resume
 
 - ⚡ Fun fact **I am funny**
 
