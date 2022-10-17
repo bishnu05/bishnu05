@@ -5,7 +5,7 @@
 
 <img src="https://camo.githubusercontent.com/04e1fb71da995e01cd6b0aef1b07b2d9745edd584d7b47236f083c3cd1d1bfe5/68747470733a2f2f7777772e69616b6164656d692e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f31302f7068702d7765622d64657369676e2e676966" height="300px" alt="js" />
 <h1 align="center">Hi 👋, I'm Bishnu Gorai</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
+<h3 align="center">A passionate Frontend Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bishnu05&label=Profile%20views&color=0e75b6&style=flat" alt="bishnu05" /> </p>
