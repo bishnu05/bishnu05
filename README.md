@@ -89,9 +89,9 @@
 <h2 align="center">Contribution Graph 📊</h2>
 <img src="https://activity-graph.herokuapp.com/graph?username=bishnu05&theme=chartreuse-dark" />   
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bishnu05&show_icons=true&locale=en&layout=compact" alt="bishnu05" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bishnu05&show_icons=true&locale=en&layout=compact" alt="bishnu05" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bishnu05&show_icons=true&locale=en" alt="bishnu05" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bishnu05&" alt="bishnu05" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bishnu05&" alt="bishnu05" /></p>   -->
 
