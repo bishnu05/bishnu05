@@ -89,9 +89,13 @@
 <h2 align="center">Contribution Graph 📊</h2>
 <img src="https://activity-graph.herokuapp.com/graph?username=bishnu05&theme=chartreuse-dark" />   
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bishnu05&show_icons=true&locale=en&layout=compact" alt="bishnu05" /></p>
+   <h2><i>My GitHub Stats</i></h2>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bishnu05&show_icons=true&locale=en" alt="bishnu05" /></p>
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bishnu05&layout=compact&hide=Shell&border_radius=0&theme=dark" alt="bishnu05" width="400" height="190" /><br/>           
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bishnu05&" alt="bishnu05" /></p>
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=bishnu05&theme=dark&hide_border=false&height=190)<br/>
+
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bishnu05&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=dark" alt="bishnu05" height="190" />
+
 
