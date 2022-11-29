@@ -96,6 +96,6 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=bishnu05&theme=dark&hide_border=false&height=190)<br/>
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bishnu05&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=dark" alt="bishnu05" height="190" />
+<!--   <img align="center" src="https://github-readme-stats.vercel.app/api?username=bishnu05&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=dark" alt="bishnu05" height="190" /> -->
 
 
