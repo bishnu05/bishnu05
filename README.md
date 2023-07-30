@@ -87,7 +87,7 @@
 </p>
 
 <h2 align="center">Contribution Graph 📊</h2>
-<img src="https://activity-graph.herokuapp.com/graph?username=bishnu05&theme=chartreuse-dark" />   
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bishnu05&bg_color=000000&color=ae9f37&line=578e62&point=137000&area=true&hide_border=true" />   
 
    <h2><i>My GitHub Stats</i></h2>
 
