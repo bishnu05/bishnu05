@@ -10,7 +10,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bishnu05&label=Profile%20views&color=0e75b6&style=flat" alt="bishnu05" /> </p>
 
-- 🔭 I’m currently working on **Typescript**
+- 🔭 I’m currently working on **Backend**
 
 - 🌱 I’m currently learning **React**
 
